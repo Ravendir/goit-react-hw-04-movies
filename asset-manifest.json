@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.0c3da0a3.chunk.js": "/static/js/0.0c3da0a3.chunk.js",
+    "static/js/0.0c3da0a3.chunk.js.map": "/static/js/0.0c3da0a3.chunk.js.map",
+    "main.css": "/static/css/main.2206a297.chunk.css",
+    "main.js": "/static/js/main.1b2c1c45.chunk.js",
+    "main.js.map": "/static/js/main.1b2c1c45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e7f551d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e7f551d.js.map",
+    "static/js/3.f44e6dea.chunk.js": "/static/js/3.f44e6dea.chunk.js",
+    "static/js/3.f44e6dea.chunk.js.map": "/static/js/3.f44e6dea.chunk.js.map",
+    "static/css/4.8e9cee48.chunk.css": "/static/css/4.8e9cee48.chunk.css",
+    "static/js/4.abc9243d.chunk.js": "/static/js/4.abc9243d.chunk.js",
+    "static/js/4.abc9243d.chunk.js.map": "/static/js/4.abc9243d.chunk.js.map",
+    "static/css/5.0fff3dd5.chunk.css": "/static/css/5.0fff3dd5.chunk.css",
+    "static/js/5.2eeceb81.chunk.js": "/static/js/5.2eeceb81.chunk.js",
+    "static/js/5.2eeceb81.chunk.js.map": "/static/js/5.2eeceb81.chunk.js.map",
+    "static/css/6.8d62cb59.chunk.css": "/static/css/6.8d62cb59.chunk.css",
+    "static/js/6.0fa638b9.chunk.js": "/static/js/6.0fa638b9.chunk.js",
+    "static/js/6.0fa638b9.chunk.js.map": "/static/js/6.0fa638b9.chunk.js.map",
+    "static/js/7.814e2d20.chunk.js": "/static/js/7.814e2d20.chunk.js",
+    "static/js/7.814e2d20.chunk.js.map": "/static/js/7.814e2d20.chunk.js.map",
+    "static/js/8.9ac0f3c5.chunk.js": "/static/js/8.9ac0f3c5.chunk.js",
+    "static/js/8.9ac0f3c5.chunk.js.map": "/static/js/8.9ac0f3c5.chunk.js.map",
+    "static/js/9.4a90c603.chunk.js": "/static/js/9.4a90c603.chunk.js",
+    "static/js/9.4a90c603.chunk.js.map": "/static/js/9.4a90c603.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/4.8e9cee48.chunk.css.map": "/static/css/4.8e9cee48.chunk.css.map",
+    "static/css/5.0fff3dd5.chunk.css.map": "/static/css/5.0fff3dd5.chunk.css.map",
+    "static/css/6.8d62cb59.chunk.css.map": "/static/css/6.8d62cb59.chunk.css.map",
+    "static/css/main.2206a297.chunk.css.map": "/static/css/main.2206a297.chunk.css.map",
+    "static/js/3.f44e6dea.chunk.js.LICENSE.txt": "/static/js/3.f44e6dea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e7f551d.js",
+    "static/js/3.f44e6dea.chunk.js",
+    "static/css/main.2206a297.chunk.css",
+    "static/js/main.1b2c1c45.chunk.js"
+  ]
+}
