@@ -1,7 +1,3 @@
-body {
-  padding: 0 30px;
-}
-
 .containerDivNav {
   display: flex;
   flex-direction: column;
